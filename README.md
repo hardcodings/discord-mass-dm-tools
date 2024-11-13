@@ -1,41 +1,38 @@
-# telegram-mass-dm
-a tool that sends bulk message to telegram users
+# discord-mass-dm
+a tool that sends bulk message to discord users
 
 developer: https://t.me/pysmart
 
-
-![FFB92B22-B027-4874-8E30-BBE32A3749E5](https://github.com/user-attachments/assets/e1738869-c48b-4e03-a760-9211d8316493)
+![ds](https://github.com/user-attachments/assets/472e7980-338a-4bbb-8bc1-1858b4b87e1e)
 
 
 # STEPS TO FOLLOW
-- Set Up Telegram API Credentials
-- You'll need an API ID and API Hash from my.telegram.org.
+- Set Up Discord API Credentials
+- You'll need an API ID and API Hash from discord.com/developers/docs/intro
  
-<b>ALSO AVAILABLE FOR TELEGRAM MASS DMs</b>
+<b>ALSO AVAILABLE FOR DISCORD MASS DMs</b>
 
 developer: https://t.me/pysmart
 
-- Go to my.telegram.org.
-- Log in with your phone number.
-- Click on API development tools.
-- Copy your API ID and API Hash.
+- Go to discord.com/developers/docs/intro
+- Acquire your APIs.
 
-<b>ALSO AVAILABLE FOR TELEGRAM MASS DMs</b>
+<b>ALSO AVAILABLE FOR DISCORD MASS DMs</b>
 
 developer: https://t.me/pysmart
 
 # How It Works:
-- Session Saving: The TelegramClient('session_name', api_id, api_hash) automatically saves the session into a file named session_name.session.
+- Session Saving: The discord APIs automatically saves the session into a file 
 - When you run the script again, it won't ask you to log in if the session is still valid.
-- Login: The script starts by logging in using your phone number. If the session is already saved, it skips this step.
-- Sending Messages: It reads a file (users.txt) containing usernames or phone numbers and sends a message to each one.
+- Login: The script starts by logging in your session. If the session is already saved, it skips this step.
+- Sending Messages: It reads a file (users.txt) containingdiscord users' IDs and sends a message to each one.
 
-<b>ALSO AVAILABLE FOR TELEGRAM MASS DMs</b>
+<b>ALSO AVAILABLE FOR DISCORD MASS DMs</b>
 
 developer: https://t.me/pysmart
 
 # Notes
 Ensure that the users.txt file is in the same directory as the script or provide an absolute path.
-For sending messages to phone numbers, ensure they are in your Telegram contacts. 
+For sending messages to DISCORD USERS, ensure they are in your DISCORD SERVER. 
 
-sending automated messages to telegram users after scraping the users fromn a group or channel.
+sending automated messages to discord  users after scraping the users fromn discord servers.
