@@ -8,7 +8,7 @@ developer: https://t.me/pysmart
 
 # STEPS TO FOLLOW
 - Set Up Discord API Credentials
-- You'll need an API ID and API Hash from discord.com/developers/docs/intro
+- You'll need API Credentials from discord.com/developers/docs/intro
  
 <b>ALSO AVAILABLE FOR DISCORD MASS DMs</b>
 
