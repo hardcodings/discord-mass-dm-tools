@@ -15,7 +15,7 @@ developer: https://t.me/pysmart
 developer: https://t.me/pysmart
 
 - Go to discord.com/developers/docs/intro
-- Acquire your APIs.
+- Acquire your API credentials.
 
 <b>ALSO AVAILABLE FOR DISCORD MASS DMs</b>
 
@@ -35,4 +35,4 @@ developer: https://t.me/pysmart
 Ensure that the users.txt file is in the same directory as the script or provide an absolute path.
 For sending messages to DISCORD USERS, ensure they are in your DISCORD SERVER. 
 
-sending automated messages to discord  users after scraping the users fromn discord servers.
+sending automated messages to discord users after scraping the users fromn discord servers.
