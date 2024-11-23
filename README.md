@@ -35,4 +35,4 @@ developer: https://t.me/pysmart
 Ensure that the users.txt file is in the same directory as the script or provide an absolute path.
 For sending messages to DISCORD USERS, ensure they are in your DISCORD SERVER. 
 
-sending automated messages to discord users after scraping the users fromn discord servers.
+sending automated messages to discord users after scraping the users from  bulk discord servers.
