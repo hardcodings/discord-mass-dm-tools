@@ -6,7 +6,7 @@ developer: https://t.me/pysmart
 ![ds](https://github.com/user-attachments/assets/472e7980-338a-4bbb-8bc1-1858b4b87e1e)
 
 
-# STEPS TO FOLLOW
+# STEPS TO FOLLOW CORRECTLY
 - Set Up Discord API Credentials
 - You'll need API Credentials from discord.com/developers/docs/intro
  
