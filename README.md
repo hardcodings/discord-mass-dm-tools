@@ -38,3 +38,4 @@ For sending messages to DISCORD USERS, ensure they are in your DISCORD SERVER.
 sending automated messages to discord users after scraping the users from  bulk discord servers.
 
 DISCORD MASS DM
+DISCORD BULK MESSAGE SENDER
