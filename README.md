@@ -39,3 +39,4 @@ sending automated messages to discord users after scraping the users from  bulk 
 
 DISCORD MASS DM
 DISCORD BULK MESSAGE SENDER
+DISCORD BULK MASS DM
