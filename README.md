@@ -1,7 +1,7 @@
 # discord-mass-dm
 a tool that sends bulk message to discord users
 
-developer: https://t.me/pysmart
+developer: https://t.me/profcoders
 
 ![ds](https://github.com/user-attachments/assets/472e7980-338a-4bbb-8bc1-1858b4b87e1e)
 
@@ -12,14 +12,14 @@ developer: https://t.me/pysmart
  
 <b>ALSO AVAILABLE FOR DISCORD MASS DMs</b>
 
-developer: https://t.me/pysmart
+developer:https://t.me/profcoders
 
 - Go to discord.com/developers/docs/intro
 - Acquire your API credentials.
 
 <b>ALSO AVAILABLE FOR DISCORD MASS DMs</b>
 
-developer: https://t.me/pysmart
+developer: https://t.me/profcoders
 
 # How It Works:
 - Session Saving: The discord APIs automatically saves the session into a file 
@@ -29,7 +29,7 @@ developer: https://t.me/pysmart
 
 <b>ALSO AVAILABLE FOR DISCORD MASS DMs</b>
 
-developer: https://t.me/pysmart
+developer: https://t.me/profcoders
 
 # Notes
 Ensure that the users.txt file is in the same directory as the script or provide an absolute path.
